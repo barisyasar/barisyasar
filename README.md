@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Baris
+- 👀 I’m interested in Mobile app development
+- 🌱 I’m currently learning React Native
+- 📫 How to reach me baris.yasar@tedu.edu.tr
